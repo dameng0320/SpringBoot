@@ -1,0 +1,14 @@
+spring:
+  main:
+    banner-mode: off
+name: dameng
+
+user:
+  name: dameng
+  age: 20
+
+datasource:
+  driver: com.mysql.Driver
+  url: jdbc:mysql://localhost/springboot_test?serverTimezone=UTC
+  username: root
+  password: 1123
