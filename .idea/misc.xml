@@ -8,6 +8,9 @@
         <option value="$PROJECT_DIR$/Springboot_03/pom.xml" />
         <option value="$PROJECT_DIR$/Springboot_04/pom.xml" />
         <option value="$PROJECT_DIR$/Springboot_05Mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot_06_Mybatis_plus/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot_07_druid/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot_08_SSMP/pom.xml" />
       </list>
     </option>
   </component>

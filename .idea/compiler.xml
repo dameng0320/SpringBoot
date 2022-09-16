@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Springboot_05Mybatis" />
         <module name="Springboot_02" />
         <module name="Springboot_03" />
         <module name="Springboot_01" />
-        <module name="Springboot_05Mybatis" />
+        <module name="Springboot_06_Mybatis_plus" />
+        <module name="Springboot_08_SSMP" />
         <module name="Springboot_04" />
+        <module name="Springboot_07_druid" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +22,9 @@
       <module name="Springboot_03" target="1.8" />
       <module name="Springboot_04" target="1.8" />
       <module name="Springboot_05Mybatis" target="1.8" />
+      <module name="Springboot_06_Mybatis_plus" target="1.8" />
+      <module name="Springboot_07_druid" target="1.8" />
+      <module name="Springboot_08_SSMP" target="1.8" />
       <module name="Springboot_xxx" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -28,6 +34,9 @@
       <module name="Springboot_03" options="-parameters" />
       <module name="Springboot_04" options="-parameters" />
       <module name="Springboot_05Mybatis" options="-parameters" />
+      <module name="Springboot_06_Mybatis_plus" options="-parameters" />
+      <module name="Springboot_07_druid" options="-parameters" />
+      <module name="Springboot_08_SSMP" options="-parameters" />
       <module name="Springboot_xxx" options="-parameters" />
     </option>
   </component>
