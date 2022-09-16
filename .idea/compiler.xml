@@ -9,6 +9,7 @@
         <module name="Springboot_02" />
         <module name="Springboot_03" />
         <module name="Springboot_01" />
+        <module name="Springboot_05Mybatis" />
         <module name="Springboot_04" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="Springboot_02" target="1.8" />
       <module name="Springboot_03" target="1.8" />
       <module name="Springboot_04" target="1.8" />
+      <module name="Springboot_05Mybatis" target="1.8" />
       <module name="Springboot_xxx" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -25,6 +27,7 @@
       <module name="Springboot_01" options="-parameters" />
       <module name="Springboot_03" options="-parameters" />
       <module name="Springboot_04" options="-parameters" />
+      <module name="Springboot_05Mybatis" options="-parameters" />
       <module name="Springboot_xxx" options="-parameters" />
     </option>
   </component>

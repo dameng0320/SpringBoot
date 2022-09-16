@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Springboot_02/Springboot_02.iml" filepath="$PROJECT_DIR$/Springboot_02/Springboot_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot_03/Springboot_03.iml" filepath="$PROJECT_DIR$/Springboot_03/Springboot_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot_04/Springboot_04.iml" filepath="$PROJECT_DIR$/Springboot_04/Springboot_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot_05Mybatis/Springboot_05Mybatis.iml" filepath="$PROJECT_DIR$/Springboot_05Mybatis/Springboot_05Mybatis.iml" />
     </modules>
   </component>
 </project>
